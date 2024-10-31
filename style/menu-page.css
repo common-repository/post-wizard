@@ -1,0 +1,58 @@
+.post-wizard-menu-page .made-by-lightson {
+    text-decoration: none;
+    display: block;
+    color: black;
+    transform: translateY(12px);
+    font-size: 13px;
+}
+
+.post-wizard-menu-page .made-by-lightson svg {
+    width: 13px;
+}
+
+.post-wizard-menu-page .made-by-lightson:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.post-wizard-menu-page .button-primary {
+    color: #ffffff;
+    background: #5839b6;
+    border-color: #5839b6;
+    font-weight: bolder;
+    padding: 4px 20px;
+    border-radius: 0;
+}
+
+.post-wizard-menu-page .button-primary:hover {
+    color: #5839b6;
+    background: #ffffff;
+}
+
+.post-wizard-menu-page .form-table th {
+    width: 150px;
+}
+
+.post-wizard-menu-page .form-table input {
+    width: 430px;
+    color: transparent;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.post-wizard-menu-page .info {
+    font-size: 13px;
+    background-color: #ffffff;
+    padding: 5px 10px;
+    display: inline-block;
+    line-height: 2;
+}
+
+.post-wizard-menu-page .extra-info {
+    margin: 20px 0 40px;
+    padding-left: 10px;
+    border-left: 2px solid black;
+}
+
+.post-wizard-menu-page .extra-info a {
+    font-size: 14px;
+}
